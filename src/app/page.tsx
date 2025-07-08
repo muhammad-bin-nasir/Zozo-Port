@@ -106,7 +106,7 @@ export default function HomePage() {
           <div className="flex justify-center">
             <Image
               src="/me.jpg"
-              alt="Muhammad Bin Nasir"
+              alt="Aiza Shafqat"
               width={256}
               height={256}
               className="rounded-2xl object-cover border-4 border-yellow-400 shadow-lg"
@@ -189,7 +189,7 @@ export default function HomePage() {
                 name="name"
                 required
                 className="w-full px-4 py-2 bg-gray-800 text-white rounded focus:outline-none focus:ring-2 focus:ring-yellow-400"
-                placeholder="Muhammad Bin Nasir"
+                placeholder="Aiza Shafqat"
               />
             </div>
 
