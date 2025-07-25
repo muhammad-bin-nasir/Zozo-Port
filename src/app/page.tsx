@@ -178,7 +178,7 @@ export default function HomePage() {
           </p>
 
           <form
-            action="https://formspree.io/f/mjkrozjq"
+            action="https://formspree.io/f/mgvzkknz"
             method="POST"
             className="space-y-4 text-left"
           >
